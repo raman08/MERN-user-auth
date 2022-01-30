@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400&display=swap');
+
+.App {
+	display: flex;
+	min-height: 100vh;
+	font-family: 'Work Sans';
+	font-size: larger;
+	background: #030303b6;
+}
